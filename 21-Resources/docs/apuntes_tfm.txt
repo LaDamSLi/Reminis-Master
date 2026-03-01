@@ -1,0 +1,33 @@
+# Memoria y Presentación TFM: Del Hogar a la Residencia - Diseño para preservar la Identidad
+
+## 1. Abstract / Resumen
+Este tránsito del hogar a la institución puede generar desorientación, pérdida de referencias personales y dificultades de integración, tanto a nivel emocional como social. Paralelamente, el personal profesional de las residencias trabaja habitualmente bajo condiciones de alta carga asistencial, rotación de turnos y falta de herramientas que faciliten un conocimiento profundo y compartido de cada residente más allá de sus necesidades clínicas.
+
+Este Trabajo Fin de Máster propone el diseño conceptual de una aplicación digital concebida como una herramienta de apoyo al personal de residencias, cuyo objetivo principal es preservar la identidad de las personas mayores y facilitar su integración en el ecosistema residencial. El proyecto parte del enfoque de la Atención Centrada en la Persona (ACP), entendiendo que conocer la historia de vida, las preferencias, los vínculos y la forma de ser de cada individuo es clave para ofrecer un cuidado verdaderamente personalizado y humano.
+
+El ingreso de una persona mayor en una residencia supone, en muchos casos, una ruptura brusca con su entorno vital, su identidad cotidiana y sus vínculos previos. 
+
+La app se estructura como un ecosistema digital compuesto por cuatro módulos interrelacionados:
+1. **Mapa de Vida**: Permite al personal acceder de forma rápida y visual a información significativa sobre la persona, facilitando la personalización del trato, las conversaciones y la planificación de actividades. "Software visual e intuitivo para profesionales gerocultores, que da acceso sencillo a los aspectos esenciales del día a día de la persona mayor".
+2. **Archivo Multimedia**: Repositorio compartido que recoge fotografías, audios, biografías y otros materiales personales, manteniendo un vínculo activo entre la residencia y el entorno familiar.
+3. **Actividades Lúdicas de Integración**: Diseñadas a partir de la historia de vida del residente para favorecer la socialización y el sentimiento de pertenencia al grupo (ej. enseñar qué hacía esa persona al grupo).
+4. **Aplicaciones de IA y Realidad Virtual (Reminiscencia)**: Explora de forma prospectiva el uso de inteligencia artificial y realidad virtual para experiencias inmersivas, de reminiscencia y estimulación cognitiva y emocional.
+
+## 2. Mapa Visual y Conceptos Clave
+- **Conceptos**: Identidad, Soledad, Reminiscencia, Personal Gerontológico, Dignidad, Bienestar, Personalización, Vejez.
+- **Problema Actual**: Escasez de personal, sobrecarga de trabajo, trato deficiente, macrorresidencias con despersonalización, pérdida de autonomía, y ruptura con el proyecto de vida. La soledad de los residentes provoca dificultades para integrarse y hacer amistades, desarraigo, depresión y sensación de abandono.
+- **Solución / ACP**: Nuevos modelos residenciales (Co-housing, unidades de convivencia). Personalización del espacio, rutinas, hobbies, trato más humano, favorecer la autonomía, fomentar relaciones entre internos.
+- **Tres Aprendizajes Determinantes**: 
+  1. El factor más importante para preservar la dignidad e identidad de las personas es el personal gerontológico.
+  2. La importancia de la reminiscencia y mantener contacto con lo que ha llenado a esa persona en su vida.
+  3. Sistema que facilite una atención más humana y la integración de la persona en el círculo social residencial.
+
+## 3. UI/UX: Inspiración y Diseño 
+- Diseños enfocados en interfaces funcionales, actuales y muy visuales que destacan por su sencillez y dinamismo.
+- Tarjetas accesibles sobre lugares o datos significativos de los ancianos.
+- La información compleja debe comprenderse en unos escasos segundos por los profesionales.
+
+## 4. Referencias Clave (ACP)
+- **Fundación Matia**: Respeto a la dignidad, apoyo a los proyectos de vida, modelo profesionalizado, participación activa de familias.
+- **Fundación Jubilares**: Transformación de entornos físicos y sociales para generar comunidades de cuidados que refuercen la identidad.
+- **Fundación Pilares**: Dignidad, autonomía, participación, confianza.
