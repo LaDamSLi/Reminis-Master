@@ -1,0 +1,21 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+21-Resources/MartasTFM/
+*.pdf
+.env
+
+# Note: submodules (01-app, 02-backend, 03-database) have their own .gitignore files
