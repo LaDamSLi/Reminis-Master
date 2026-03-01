@@ -1,0 +1,9 @@
+[submodule "01-app"]
+	path = 01-app
+	url = https://github.com/LaDamSLi/Reminis-01-App.git
+[submodule "02-backend"]
+	path = 02-backend
+	url = https://github.com/LaDamSLi/Reminis-02-Backend.git
+[submodule "03-database"]
+	path = 03-database
+	url = https://github.com/LaDamSLi/Reminis-03-Database.git
