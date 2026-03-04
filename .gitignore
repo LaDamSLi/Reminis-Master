@@ -7,14 +7,33 @@
 ehthumbs.db
 Thumbs.db
 
+# General
+*.zip
+*.rar
+*.7zip
+
 # IDEs and Editors
 .idea/
 .vscode/
 *.swp
 *.swo
 
+# Images
+*.jpg
+*.png
+*.webp
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.tiff
+*.ico
+*.heic
+*.heif
+
 # Project specific
 21-Resources/MartasTFM/
+21-Resources/img-references-pinterest/
 *.pdf
 .env
 

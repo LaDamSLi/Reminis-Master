@@ -20,9 +20,11 @@ El proyecto se divide en 3 áreas ya estructuradas:
 - Fichas visuales o tarjetas rápidas para el cuidador (cero texto denso).
 - **Cuestionario Avanzado (AI Asistido)**: Una subsección donde los familiares/residentes pueden rellenar información de forma sencilla. La IA asiste haciendo preguntas o estructurando respuestas incompletas para mantener la información siempre actualizada de manera fácil.
 
-### Módulo 2: Archivo Multimedia y Conexión Familiar
-- Un repositorio personal del residente ("Instagram privado").
-- **Conectividad Familiar**: Los familiares pueden subir fotos antiguas/nuevas y recibir notificaciones (Push alerts) sobre el día a día del residente y sus actividades.
+### Módulo 2: Archivo Multimedia y Conexión Familiar (Archivador Interactivo)
+- **Repositorio Contextual**: Las fotos subidas no son solo una galería, son un "archivo" físico virtual. Cada foto obligatoriamente incluye una "Historia de la Foto": Quién aparece, dónde fue, por qué se tomó y una pequeña anécdota.
+- **Bandeja de Mensajes Diarios**: Un canal asíncrono donde las familias dejan pequeños mensajes de audio o texto ("Buzón familiar"). El cuidador puede leérselos a la persona mayor durante su rutina matutina para generar un momento de conexión.
+- **Botón "Recuerdo Sorpresa"**: Un botón rápido que extrae una foto aleatoria del archivo para usarla como "rompehielos" y detonante de conversación.
+- *Filosofía UI/UX*: Estética de cajonera/archivador físico retro (carpetas apiladas, animaciones de deslizar papeles) enmarcado en el diseño minimalista de blancos y grises.
 
 ### Módulo 3: Actividades, Emparejamiento e IA (El Cerebro)
 - **Generación de Actividades**: La IA usa el historial/gustos del residente para sugerir dinámicas aplicables al personal o a la familia.
